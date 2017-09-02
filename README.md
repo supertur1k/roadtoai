@@ -1,2 +1,0 @@
-# roadtoai
-ai 
